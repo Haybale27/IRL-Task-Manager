@@ -1,0 +1,20 @@
+csc_hw_1.3
+i dont like zybooks
+homework
+12/29/24 23:59:00
+1
+45
+
+math_hw_2.1
+fundamental theorem of calculus
+homework
+12/30/24 23:59:00
+1
+120
+
+csc_lab_2
+make wordle in c++
+lab
+01/02/25 08:00:00
+1
+90
